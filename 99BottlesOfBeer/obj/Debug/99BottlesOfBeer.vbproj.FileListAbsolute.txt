@@ -1,0 +1,11 @@
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\bin\Debug\99BottlesOfBeer.exe.config
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\bin\Debug\99BottlesOfBeer.exe
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\bin\Debug\99BottlesOfBeer.pdb
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\bin\Debug\99BottlesOfBeer.xml
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\obj\Debug\_99BottlesOfBeer.Form1.resources
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\obj\Debug\_99BottlesOfBeer.Resources.resources
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\obj\Debug\99BottlesOfBeer.vbproj.GenerateResource.Cache
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\obj\Debug\99BottlesOfBeer.vbproj.CoreCompileInputs.cache
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\obj\Debug\99BottlesOfBeer.exe
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\obj\Debug\99BottlesOfBeer.xml
+C:\Users\nick\source\repos\99BottlesOfBeer\99BottlesOfBeer\obj\Debug\99BottlesOfBeer.pdb
